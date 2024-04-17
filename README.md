@@ -1,4 +1,4 @@
-##ChatPDF - PDF Q&A Chat Application##
+ChatPDF - PDF Q&A Chat Application
 
 Users can ask questions about a particular PDF document using the web-based chat program ChatPDF.
 In order to deliver precise responses depending on the context taken from the PDF, the program makes use of a Language Learning Model (LLM) using RAG (Retriever-Reader-Generator) approaches.
